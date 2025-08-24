@@ -1,4 +1,4 @@
-# ✨ Predictive Text Simulator
+# ✨ Predictive Text Generator
 
 This project is a simple **Predictive Text Generator** built in Python.  
 It uses a **bigram model** (word pairs) to predict the next possible word and also generates short sentences.
@@ -41,3 +41,4 @@ Allow user to upload their own dataset
 👨‍💻 Author
 
 Created for internship submission.
+
